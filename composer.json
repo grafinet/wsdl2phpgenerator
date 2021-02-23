@@ -1,5 +1,6 @@
 {
-    "name": "wsdl2phpgenerator/wsdl2phpgenerator",
+    "name": "grafinet/wsdl2phpgenerator",
+    "version": "3.4.1",
     "description": "Simple class library for generating php classes from a wsdl file.",
     "keywords": ["soap", "wsdl"],
     "license": "MIT",
